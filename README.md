@@ -1,16 +1,8 @@
-# random_number_calculator
+# Random Number Calculator
 
-A new Flutter project.
+This is my first Flutter project in a while, and I used it to get back into the basics of Flutter - widgets, state, styling, etc. As such, it is a basic project, and the code is also very simple.
 
-## Getting Started
+How it works is that there is a button that generates a random number between 1-1000. There is then a set of 6 buttons. One for adding 1 to the number, one for subtracting 1 from the number, one to multiply the number by 2, one to divide the number by 2, one to square the number, and one to take the sqaure root of the number. It then displays this calculation below it.
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/ProTechZ/Random-Number-Calculator/assets/96871120/31f0cc0f-a96b-4d65-88bf-4f056c5aaf9a)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
